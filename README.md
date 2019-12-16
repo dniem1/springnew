@@ -11,7 +11,7 @@ ponadto użytkownik może obejrzeć ogłoszenia innych użytkowników.
   - Zarządzanie kategoriami ogłoszeń
   - Przeglądanie obecnie aktywnych ogłoszeń
  
- ![Test Image 1](1.png)
+ ![](1.PNG)
 
 
 
